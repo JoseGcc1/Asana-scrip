@@ -1,0 +1,6 @@
+{
+  "client_name_1": { "WO": 0.10, "PO": 0.10, "ANY": 0.10 },
+  "client_name_2": { "WO": 0.10, "PO": 0.10, "ANY": 0.10 },
+  "client_name_3": { "WO": 0.15, "PO": 0.15, "ANY": 0.15 },
+  "client_name_4": { "WO": 0.10, "PO": 0.10, "ANY": 0.10 },
+}

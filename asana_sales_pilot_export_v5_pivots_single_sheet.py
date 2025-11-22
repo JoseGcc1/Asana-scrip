@@ -1,9 +1,4 @@
 
-# -*- coding: utf-8 -*-
-# Asana Sales Pilot Export - v5 (defensive pivots + Excel Table on 'data')
-# - Hoja 'data' ahora se escribe como **Tabla de Excel** (con filtros y formato).
-# - Hoja 'Tablas Dinamicas' crea pivots si existe add_pivot_table; si no, deja instrucciones.
-# - Safe-write: escribe a .tmp y reemplaza, o guarda copia con timestamp si el archivo está abierto.
 
 import os, sys, re, json, argparse, time
 from typing import Any, Dict, List, Optional
